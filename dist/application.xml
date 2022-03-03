@@ -1,0 +1,11 @@
+<server description="Application specific configurations">
+
+    <!-- Enable features -->
+    <featureManager>
+    </featureManager>
+    
+    <!-- Application -->
+    
+    <application id="SampleWebApp" name="SampleWebApp" type="war" location="SampleWebApp.war" context-root="SampleWebApp" />
+
+</server>
