@@ -1,4 +1,4 @@
-FROM localhost/websphere-liberty:latest
+FROM ibmcom/websphere-liberty:full-java8-ibmjava-ubi
 
 MAINTAINER bob.hambleton@natwest.com
 
